@@ -1,35 +1,40 @@
-公開  · 所有 Facebook 的用戶和非用戶
-▶▶美學程式設計工作坊｜淺談版本管理與分岔◀◀ ​ ​
-​
-視盟要到台中舉行工作坊了！
-​
-《美學程式設計》是一本開放取用（open access）的書籍，從程式語言內部出發，探討其文化、美學與政治性，並鼓勵讀者「像寫作一樣寫程式，像寫程式一樣寫作」。
-​
-本次工作坊將由《美學程式設計》台灣版工作小組成員以初學者友善的方式，帶領大家操作書中核心的技術：版本管理（versioning）與分岔（fork）。從軟體工程中的分岔精神出發，我們將介紹這本書如何以開放授權讓所有人自由修改、再利用。
-​
-不論你是創作者、研究者，或對科技與文化交會感興趣的行動者，都歡迎來一起認識《美學程式設計》如何重新想像編碼與書寫的可能性。
-​
-​
+Public · Visible to all Facebook users and non-users
+▶▶ Aesthetic Programming Workshop | A Brief Introduction to Versioning and Forking ◀◀
+
+VAM is heading to Taichung to host a workshop!
+
+Aesthetic Programming is an open access book that explores the cultural, aesthetic, and political dimensions of programming from within programming languages themselves. It encourages readers to “write code as if writing literature, and write literature as if writing code.”
+
+In this workshop, members of the Taiwan edition working group of Aesthetic Programming will guide participants in a beginner-friendly way through the book’s core technical practices: versioning and forking. Drawing on the spirit of forking in software engineering, we’ll introduce how the book itself is openly licensed to allow everyone to freely modify and reuse it.
+
+Whether you are a creator, researcher, or activist interested in the intersections of technology and culture, you’re welcome to join us in exploring how Aesthetic Programming reimagines the possibilities of coding and writing.
+
 🆂🅳🅶🅂
-【美學程式設計｜淺談版本管理與分岔】＃工作坊
-工作坊講師｜
-▸李佳霖（自牧文化負責人）
-▸林彥璋（網通軟韌體工程師與假日自造者）
-工作坊時間｜2025/08/31（日）12:00-20:00
-工作坊地點｜毛刺 Glitch（台中市西區柳川東路二段58號2-4樓）
-報名連結｜https://reurl.cc/vLvl91
-​
-== 講師簡介 ==
-​
-✦李佳霖
-畢業於台大外文系、中國美術學院當代藝術與社會思想研究所，研究與實踐關注方向為數位時代的文化研究、媒體理論與藝術創作。目前就讀台北藝術大學美術系博士班，同時擔任自牧文化負責人，製作展覽與出版圖書。
-​
-✦林彥璋
-關注開源、自造文化與科技藝術，現為網通軟韌體工程師與假日自造者。
-​
-📌報名費用｜ 200元
-完成匯款後
-1.填寫並送出以報名表單。
-2.視盟將於確認款項後寄出確認信。
-3.收到確認信後，即完成報名手續。
-補助單位｜國藝會
+[Aesthetic Programming | A Brief Introduction to Versioning and Forking] #Workshop
+
+Speakers｜
+▸ Li Chia-Lin (Director of Zimu Culture)
+▸ Lin Yen-Chang (Network software/firmware engineer and weekend maker)
+
+Date & Time｜ Sunday, August 31, 2025, 12:00 – 20:00
+Venue｜ Glitch (2F–4F, No.58, Sec. 2, Liuchuan East Road, West District, Taichung)
+Registration｜ https://reurl.cc/vLvl91
+
+== Speaker Bios ==
+
+✦ Li Chia-Lin
+Graduated from the Department of Foreign Languages and Literatures at National Taiwan University and the Institute of Contemporary Art and Social Thought at China Academy of Art. Her research and practice focus on cultural studies in the digital age, media theory, and artistic creation. She is currently a PhD student in Fine Arts at Taipei National University of the Arts and the director of Zimu Culture, producing exhibitions and publishing books.
+
+✦ Lin Yen-Chang
+Interested in open source, maker culture, and media arts. He is currently a network software/firmware engineer and a weekend maker.
+
+📌 Registration Fee｜ NT$200
+After completing the transfer:
+
+Fill out and submit the registration form.
+
+VAM will send a confirmation email once payment is received.
+
+After receiving the confirmation email, your registration is complete.
+
+Supported by｜National Culture and Arts Foundation (NCAF)
